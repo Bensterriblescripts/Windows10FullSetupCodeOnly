@@ -1,1 +1,0 @@
-start setup.exe /Download "C:\Temp\Applications\O365\Office365.xml"
